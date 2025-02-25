@@ -1,7 +1,7 @@
 {
-    "name": "BIRCOIN",
-    "symbol": "BIR",
-    "description": "BIRCOIN - description",
+    "name": "COIN",
+    "symbol": "CON",
+    "description": "COIN - description",
     "image": "https://raw.githubusercontent.com/rmnvalera/bircoin-metadata/refs/heads/main/image.png",
     "attributes": [
       
